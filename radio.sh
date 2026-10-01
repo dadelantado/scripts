@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Cloned from https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/
 set -e
 set -u
 set -o pipefail
